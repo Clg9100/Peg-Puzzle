@@ -1,7 +1,7 @@
 # Peg-Solitaire
 A Java Implementation of the Peg Solitaire game!
 
-The goal of the game is an ed board configuration consisting of just one peg left.
+The goal of the game is an end board configuration consisting of just one peg left.
 
 A peg may only jump another peg, if the peg lands in an empty spot after jumping the stationary peg.
 The jump can only be a distance of 2 spaces, over the stationary peg, into the open spot.
