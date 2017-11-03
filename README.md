@@ -7,7 +7,7 @@ A peg may only jump another peg, if the peg lands in an empty spot after jumping
 The jump can only be a distance of 2 spaces, over the stationary peg, into the open spot.
 
 The game ends and tallies the players score when either they've won the game, OR, they've enountered a situation in which
-no more moves are possible.
+no more moves are possible -or, the player voluntarily quits, by entering -1 to the console.
 
 More information on the game available at: 
 https://en.wikipedia.org/wiki/Peg_solitaire
